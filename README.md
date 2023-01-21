@@ -1,13 +1,13 @@
 # Todo_Streamlit_App
 
-[ToDo Streamlit App Link](https://dev-rakeshshaw-todo-streamlit-app-app-gezgkn.streamlit.app/)
+[Todo Streamlit App Link](https://dev-rakeshshaw-todo-streamlit-app-app-gezgkn.streamlit.app/)
 
 ![badge](https://img.shields.io/badge/Developer-Rakesh%20Shaw-blueviolet)
 ![badge](https://img.shields.io/badge/Framework-Streamlit-red)
 ![badge](https://img.shields.io/badge/Database-MongoDB%20Atlas-green)
 ![badge](https://img.shields.io/badge/Language-Python-brightgreen)
 
-This repo contains all the code files of [ToDo Streamlit App](https://dev-rakeshshaw-todo-streamlit-app-app-gezgkn.streamlit.app/) which is created by [dev-rakeshshaw](https://github.com/dev-rakeshshaw/).
+This repo contains all the code files of [Todo Streamlit App](https://dev-rakeshshaw-todo-streamlit-app-app-gezgkn.streamlit.app/) which is created by [dev-rakeshshaw](https://github.com/dev-rakeshshaw/).
 
 All Credit goes to `dev-rakeshshaw`
 
