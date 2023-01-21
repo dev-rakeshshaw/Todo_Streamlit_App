@@ -2,7 +2,8 @@
 
 [ToDo Streamlit App Link](https://dev-rakeshshaw-todo-streamlit-app-app-gezgkn.streamlit.app/)
 
-![badge](https://img.shields.io/badge/Developer-Rakesh Shaw-blueviolet)
+https://img.shields.io/badge/Developer-Rakesh%20Shaw-blueviolet
+![badge](https://img.shields.io/badge/Developer-Rakesh%20Shaw-blueviolet)
 ![badge](https://img.shields.io/badge/Framework-Streamlit-red)
 ![badge](https://img.shields.io/badge/Database-Streamlit-green)
 ![badge](https://img.shields.io/badge/Language-Python-brightgreen)
