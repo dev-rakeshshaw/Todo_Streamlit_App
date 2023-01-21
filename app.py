@@ -4,7 +4,7 @@ import pandas as pd
 
 
 st.set_page_config(
-    page_title="ToDo Streamlit App",
+    page_title="Todo Streamlit App",
     page_icon="./images/todo.ico",
     menu_items={
         'Get Help': 'https://www.extremelycoolapp.com/help',
@@ -79,7 +79,7 @@ if __name__ == '__main__':
     # todo_collection_obj
 
     #Title of the App
-    st.title("ToDo Streamlit App")
+    st.title("Todo Streamlit App")
    
     #Collecting todo from user
     data = todos_input()
