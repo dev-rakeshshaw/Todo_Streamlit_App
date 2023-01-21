@@ -7,9 +7,9 @@
 ![badge](https://img.shields.io/badge/Database-MongoDB%20Atlas-green)
 ![badge](https://img.shields.io/badge/Language-Python-brightgreen)
 
-This repo contains all the code files of [ToDo Streamlit App](https://dev-rakeshshaw-todo-streamlit-app-app-gezgkn.streamlit.app/) which is created by [Dev Rakesh Shaw](https://github.com/dev-rakeshshaw/).
+This repo contains all the code files of [ToDo Streamlit App](https://dev-rakeshshaw-todo-streamlit-app-app-gezgkn.streamlit.app/) which is created by [dev-rakeshshaw](https://github.com/dev-rakeshshaw/).
 
-All Credit goes to `Dev Rakesh Shaw`
+All Credit goes to `dev-rakeshshaw`
 
 ![image](https://user-images.githubusercontent.com/88075256/213873287-d13a585f-9332-4d1b-8264-8a3da0514dda.png)
 
