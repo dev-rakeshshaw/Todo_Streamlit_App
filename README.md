@@ -11,7 +11,8 @@ This repo contains all the code files of [ToDo Streamlit App](https://dev-rakesh
 
 All Credit goes to `Dev Rakesh Shaw`
 
-![image](https://user-images.githubusercontent.com/88075256/213873064-0a8db229-ec8c-4b71-afb1-5e42f36b8416.png)
+![image](https://user-images.githubusercontent.com/88075256/213873287-d13a585f-9332-4d1b-8264-8a3da0514dda.png)
+
 
 ![image](https://user-images.githubusercontent.com/88075256/213873107-82a65a90-5736-4c47-aa35-7c9929875ee1.png)
 
