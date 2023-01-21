@@ -46,7 +46,7 @@ def read_documents(todo_collection_obj,query=""):
     mytodos = todo_collection_obj.find(query)
     return mytodos
 
-#Function for todos input from user using streamlit:
+#Function for todos input from user using streamlit.
 def todos_input():
     
     with st.form(key='myform',clear_on_submit=True):
@@ -59,8 +59,6 @@ def todos_input():
 
     
 if __name__ == '__main__':
-
-    todo_data=""
 
     username=st.secrets.mongodb_atlas.username
     password=st.secrets.mongodb_atlas.password
