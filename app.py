@@ -78,6 +78,8 @@ if __name__ == '__main__':
 
     #Title of the App
     st.title("Todo Streamlit App")
+
+
    
     #Collecting todo from user
     data = todos_input()
